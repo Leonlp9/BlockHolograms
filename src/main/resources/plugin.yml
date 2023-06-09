@@ -1,0 +1,9 @@
+name: Holo
+version: '${project.version}'
+main: de.flam.untitled.Holo
+author: Leon_lp9
+description: Hologram Plugin for Spigot
+commands:
+    holo:
+        description: Holo Command
+        aliases: [hologram]
